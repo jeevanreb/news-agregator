@@ -26,7 +26,7 @@ news-aggregator/
 🔧 Setup Instructions
 
 1️⃣ Clone the Repository
-clone the project from here
+clone the project from here https://github.com/jeevanreb/news-agregator.git
 
 cd news-aggregator
 
